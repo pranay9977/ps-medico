@@ -21,7 +21,9 @@ Copyright (c) 2026 PS Choudhary (GitHub: Pranay9977). All rights reserved.
 
 4. THIRD-PARTY DATA (not covered by the above)
    Medicine names, prices and other catalog facts come from the public dataset
-   https://github.com/junioralive/Indian-Medicine-Dataset (MIT license).
+   https://github.com/junioralive/Indian-Medicine-Dataset (MIT license) and
+   from the MIT-licensed PharmaLens catalog (Hugging Face,
+   sinhal/indian-pharma-dataset-2026-augast).
    Factual data is not the author's property and is used with attribution.
 
 5. NO WARRANTY
