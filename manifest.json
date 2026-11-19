@@ -1,71 +1,71 @@
 {
- "build": 32,
+ "build": 35,
  "date": "19 Nov 2026",
  "file": "PS_Medico.html",
  "news": [
   {
-   "id": "b32",
-   "t": "PS Medico build 32 (19 Nov 2026): v18 news - typing lag fixed properly (the result sort was the bottleneck on phones AND laptops; it is now many times faster), a private admin page for the owner (open the official link with #admin, unlock once - it stays unlocked, and an Admin page button then appears in Tools), the request-code workflow removed from the user app, the strip unit converter and strip-photo scanner tools removed, and a cleaner phone layout: full-width search bar and labelled feature tiles on every phone size.",
+   "id": "b35",
+   "t": "PS Medico build 35 (19 Nov 2026): the medicine-clash checker is four times bigger and cleaner - it now knows 72 exact medicine pairs and 30 family rules (about 516 combinations, up from 79 pairs + 4 rules), all from standard published pharmacy references: all 10 common BP medicines, all 5 SSRI antidepressants, quinolone antibiotics, steroids and beta-blockers are covered as whole families, new classic clashes were added (heart medicines with each other, clopidogrel with omeprazole, epilepsy medicines with antibiotics and pill failure, methotrexate with painkillers, tendon injury from a quinolone antibiotic plus a steroid, TB rifampicin making modern blood thinners fail, and more), and red MAJOR warnings always appear on top. Typing a Jan Aushadhi pack's name now finds the salt inside it from the rated makers - the app itself never suggests Jan Aushadhi products as alternatives.",
    "d": "2026-11-19"
   },
   {
-   "id": "pufe6de3cc17",
-   "t": "Price checked: <b>myoril 4mg capsule</b> (strip of 10 capsules) - now Rs 319.25 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "puc660b97bfb",
+   "t": "Price checked: <b>regestrone cr 10mg tablet</b> (strip of 10 tablet cr) - now Rs 253.75 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu01bb8524dd",
-   "t": "Price checked: <b>benadryl syrup</b> (bottle of 150 ml Syrup) - now Rs 174 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pu900b382684",
+   "t": "Price checked: <b>duoluton l tablet</b> (strip of 21 tablets) - now Rs 360.03 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu88171479ef",
-   "t": "Price checked: <b>deriphyllin tablet</b> (strip of 30 tablets) - now Rs 25.63 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pue410660d98",
+   "t": "Price checked: <b>femilon tablet</b> (strip of 21 tablets) - now Rs 397 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu9844c36b57",
-   "t": "Price checked: <b>cheston ls syrup</b> (bottle of 100 ml Syrup) - now Rs 107.93 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pu6640ea3b9c",
+   "t": "Price checked: <b>yamini tablet</b> (strip of 21 tablets) - now Rs 756.75 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu45a5df9927",
-   "t": "Price checked: <b>cheston cold tablet</b> (strip of 10 tablets) - now Rs 72.36 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pu7f1a349a52",
+   "t": "Price checked: <b>chericof syrup</b> (bottle of 100 ml Syrup) - now Rs 131.25 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "puff4e05ae6c",
-   "t": "Price checked: <b>levocet syrup</b> (bottle of 60 ml Syrup) - now Rs 104 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pu38819c0bd5",
+   "t": "Price checked: <b>dexona injection</b> (vial of 2 ml Injection) - now Rs 10.94 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "puba4bcb9ab8",
-   "t": "Price checked: <b>zanocin oz tablet</b> (strip of 10 tablets) - now Rs 175.68 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pufac5857482",
+   "t": "Price checked: <b>alex p syrup</b> (bottle of 60 ml Syrup) - now Rs 117.19 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pucd28be6650",
-   "t": "Price checked: <b>zaha eye drop</b> (packet of 3 ml Eye Drop) - now Rs 164 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pu7c21d86e2e",
+   "t": "Price checked: <b>azithral eye drop</b> (packet of 3 ml Eye Drop) - now Rs 182.81 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "puf2c96bf723",
-   "t": "Price checked: <b>perinorm tablet</b> (strip of 10 tablets) - now Rs 14.49 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pu8d0a1e2019",
+   "t": "Price checked: <b>montair fx tablet</b> (strip of 15 tablets) - now Rs 416.5 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu8cad210f79",
-   "t": "Price checked: <b>domstal suspension</b> (bottle of 30 ml Suspension) - now Rs 39.93 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pu3c06199ead",
+   "t": "Price checked: <b>allegra nasal spray</b> (bottle of 120 MDI Nasal Spray) - now Rs 493 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu5ce6a695cc",
-   "t": "Price checked: <b>colospa retard capsule</b> (strip of 15 capsules) - now Rs 637.2 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pu10e154bc18",
+   "t": "Price checked: <b>allegra suspension raspberry & vanilla</b> (bottle of 100 ml Oral Suspension) - now Rs 235.5 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "puc50133e244",
-   "t": "Price checked: <b>jardiance 10mg tablet</b> (strip of 10 tablets) - now Rs 422 (1mg.com listed MRP, Nov 2026, Nov 2026).",
+   "id": "pu93d356e551",
+   "t": "Price checked: <b>allegra 30mg tablet</b> (strip of 10 tablets) - now Rs 52.8 (PharmEasy product page, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   }
  ],
