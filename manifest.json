@@ -1,11 +1,11 @@
 {
- "build": 35,
+ "build": 36,
  "date": "19 Nov 2026",
  "file": "PS_Medico.html",
  "news": [
   {
-   "id": "b35",
-   "t": "PS Medico build 35 (19 Nov 2026): the medicine-clash checker is four times bigger and cleaner - it now knows 72 exact medicine pairs and 30 family rules (about 516 combinations, up from 79 pairs + 4 rules), all from standard published pharmacy references: all 10 common BP medicines, all 5 SSRI antidepressants, quinolone antibiotics, steroids and beta-blockers are covered as whole families, new classic clashes were added (heart medicines with each other, clopidogrel with omeprazole, epilepsy medicines with antibiotics and pill failure, methotrexate with painkillers, tendon injury from a quinolone antibiotic plus a steroid, TB rifampicin making modern blood thinners fail, and more), and red MAJOR warnings always appear on top. Typing a Jan Aushadhi pack's name now finds the salt inside it from the rated makers - the app itself never suggests Jan Aushadhi products as alternatives.",
+   "id": "b36",
+   "t": "PS Medico build 36 (19 Nov 2026): the app now talks to your own server. (1) Search anything the offline catalog does not know and the app automatically asks the online verified list of 12,600+ price-checked medicines - a found medicine opens a full page exactly like a catalog one: alternatives, clash checks and its verified price history. (2) A 'Price wrong? Report it' button on every medicine page sends the real shop price straight to the owner's private list. (3) Every medicine page can show its full verified price history (every published check, newest first). (4) Prices refresh themselves through the server whenever any copy is opened with internet - and new verified prices can go live without any upload.",
    "d": "2026-11-19"
   },
   {
