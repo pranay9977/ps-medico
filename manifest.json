@@ -1,71 +1,71 @@
 {
- "build": 31,
+ "build": 32,
  "date": "19 Nov 2026",
  "file": "PS_Medico.html",
  "news": [
   {
-   "id": "b31",
-   "t": "PS Medico build 31 (19 Nov 2026): the live data channel - published price checks now reach every copy automatically when it is opened with internet (no new file to share), plus a Check for data updates now button in the builder admin and a price-data status line. Prices set or approved on a device are never overwritten.",
+   "id": "b32",
+   "t": "PS Medico build 32 (19 Nov 2026): v18 news - typing lag fixed properly (the result sort was the bottleneck on phones AND laptops; it is now many times faster), a private admin page for the owner (open the official link with #admin, unlock once - it stays unlocked, and an Admin page button then appears in Tools), the request-code workflow removed from the user app, the strip unit converter and strip-photo scanner tools removed, and a cleaner phone layout: full-width search bar and labelled feature tiles on every phone size.",
    "d": "2026-11-19"
   },
   {
-   "id": "pu962a70fef7",
-   "t": "Price checked: <b>sovaldi 400mg tablet</b> (bottle of 28 tablets) - now Rs 15809.26 (NPPA scheduled ceiling (w.e.f. 1 Apr 2026) x pack x 1.05 GST, NPPA 2026).",
+   "id": "puf40adc226b",
+   "t": "Price checked: <b>omez 20mg capsule</b> (strip of 10 capsules) - now Rs 28.13 (1mg listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu05001961a4",
-   "t": "Price checked: <b>temonat 250mg capsule</b> (strip of 5 capsules) - now Rs 23138.59 (NPPA scheduled ceiling (w.e.f. 1 Apr 2026) x pack x 1.05 GST, NPPA 2026).",
+   "id": "pu1855c9f6be",
+   "t": "Price checked: <b>omez-dsr capsule</b> (strip of 15 capsule sr) - now Rs 254.71 (1mg listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "puba6d6f7089",
-   "t": "Price checked: <b>imozide 250mg capsule</b> (strip of 5 capsules) - now Rs 23138.59 (NPPA scheduled ceiling (w.e.f. 1 Apr 2026) x pack x 1.05 GST, NPPA 2026).",
+   "id": "puf81acdccdf",
+   "t": "Price checked: <b>rosutor 10mg tablet</b> (strip of 10 tablets) - now Rs 89.16 (1mg listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu65f95e0245",
-   "t": "Price checked: <b>acozolo 250 capsule</b> (bottle of 5 capsules) - now Rs 23138.59 (NPPA scheduled ceiling (w.e.f. 1 Apr 2026) x pack x 1.05 GST, NPPA 2026).",
+   "id": "pu2c0c68a7eb",
+   "t": "Price checked: <b>telma-am tablet</b> (strip of 15 tablets) - now Rs 341.72 (1mg listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu0db5773c23",
-   "t": "Price checked: <b>montair-lc tablet</b> (strip of 15 tablets) - now Rs 419.79 (two-source snippet agreement (1mg + Amazon), Nov 2026, Nov 2026).",
+   "id": "pu76c022fd9e",
+   "t": "Price checked: <b>zerodol-p tablet</b> (strip of 10 tablets) - now Rs 75.94 (1mg listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu8a05847cc7",
-   "t": "Price checked: <b>combiflam tablet</b> (strip of 20 tablets) - now Rs 63.19 (two-source snippet agreement (1mg + Amazon), Nov 2026, Nov 2026).",
+   "id": "pu944da000a9",
+   "t": "Price checked: <b>calpol 120mg suspension</b> (bottle of 60 ml Oral Suspension) - now Rs 38.46 (MedPlus listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu05c6d6b26b",
-   "t": "Price checked: <b>zerodol-sp tablet</b> (strip of 10 tablets) - now Rs 139.0 (two-source snippet agreement (1mg + Zepto), Nov 2026, Nov 2026).",
+   "id": "pue9d946fa05",
+   "t": "Price checked: <b>calpol 250mg paediatric oral suspension</b> (bottle of 60 ml Oral Suspension) - now Rs 42.84 (1mg listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu40709ef384",
-   "t": "Price checked: <b>allegra 180mg tablet</b> (strip of 10 tablets) - now Rs 312.04 (two-source snippet agreement (1mg + PharmEasy), Nov 2026, Nov 2026).",
+   "id": "puef8426eefb",
+   "t": "Price checked: <b>voveran plus tablet</b> (strip of 10 tablets) - now Rs 29.49 (1mg listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu6b401e6437",
-   "t": "Price checked: <b>augmentin 625 duo tablet</b> (strip of 10 tablets) - now Rs 196.65 (three-source snippet agreement (1mg + MrMed + Amazon), Nov 2026, Nov 2026).",
+   "id": "pu18f01bcdf9",
+   "t": "Price checked: <b>huminsulin  30/70 100iu/ml cartridge 3ml</b> (packet of 3 ml Suspension for Injection) - now Rs 515.9 (1mg listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu774e3a198a",
-   "t": "Price checked: <b>pan-d capsule pr</b> (strip of 15 capsule pr) - now Rs 261.9 (two-source snippet agreement (1mg + PharmEasy), Nov 2026, Nov 2026).",
+   "id": "pu6a4487746f",
+   "t": "Price checked: <b>mixtard 30 hm 100iu/ml penfill</b> (penfill of 3 ml Suspension for Injection) - now Rs 515.9 (1Bpharmacy listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu8a3faaf393",
-   "t": "Price checked: <b>extend forte tablet</b> (strip of 10 tablets) - now Rs 211.0 (verified on public pharmacy pages, Nov 2026, Nov 2026).",
+   "id": "pu8a2b4780df",
+   "t": "Price checked: <b>allegra-m tablet</b> (strip of 10 tablets) - now Rs 301.3 (truemeds listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   },
   {
-   "id": "pu508ae7a473",
-   "t": "Price checked: <b>livogen captab</b> (strip of 10 captabs) - now Rs 104.43 (verified on public pharmacy pages, Nov 2026, Nov 2026).",
+   "id": "puf14da67349",
+   "t": "Price checked: <b>asthalin 2 tablet</b> (strip of 30 tablets) - now Rs 5.98 (1mg listed MRP, Nov 2026, Nov 2026).",
    "d": "2026-11-19"
   }
  ],
