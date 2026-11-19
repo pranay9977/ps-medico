@@ -2,7 +2,7 @@
 // offline. The update manifest (manifest.json) is NEVER cached, so the app's
 // own update banner always sees the live build; the app HTML itself is
 // network-first, so a newly deployed build appears on the next open.
-const C = 'psm-v1';
+const C = 'psm-v2';
 const SHELL = ['./', './PS_Medico.html', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(C).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -14,7 +14,7 @@ self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
   const url = new URL(e.request.url);
   if (url.origin !== location.origin) return;           // cross-origin: browser default
-  if (url.pathname.endsWith('/manifest.json') || url.pathname.endsWith('extra_medicines.tsv')) return;  // update check + supplement: always live
+  if (url.pathname.endsWith('/manifest.json') || url.pathname.endsWith('extra_medicines.tsv') || url.pathname.endsWith('data_updates.json')) return;  // update check + supplement + data channel: always live
   const fresh = fetch(e.request).then(r => {
     if (r && r.ok) caches.open(C).then(c => c.put(e.request, r.clone()));
     return r;

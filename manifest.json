@@ -1,11 +1,11 @@
 {
- "build": 29,
+ "build": 31,
  "date": "19 Nov 2026",
  "file": "PS_Medico.html",
  "news": [
   {
-   "id": "b29",
-   "t": "PS Medico build 29 (19 Nov 2026): real pages for every feature (back gesture or pressing the button again closes them), visible back/forward/home arrows, typo-tolerant search, CDSCO failed-batch drill-down, the Updates page (reports and suggestions travel inside the app now), a strip-photo scanner and a builder analytics dashboard.",
+   "id": "b31",
+   "t": "PS Medico build 31 (19 Nov 2026): the live data channel - published price checks now reach every copy automatically when it is opened with internet (no new file to share), plus a Check for data updates now button in the builder admin and a price-data status line. Prices set or approved on a device are never overwritten.",
    "d": "2026-11-19"
   },
   {
