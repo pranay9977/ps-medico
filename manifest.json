@@ -1,5 +1,73 @@
 {
- "build": 28,
+ "build": 29,
  "date": "19 Nov 2026",
- "file": "PS_Medico.html"
+ "file": "PS_Medico.html",
+ "news": [
+  {
+   "id": "b29",
+   "t": "PS Medico build 29 (19 Nov 2026): real pages for every feature (back gesture or pressing the button again closes them), visible back/forward/home arrows, typo-tolerant search, CDSCO failed-batch drill-down, the Updates page (reports and suggestions travel inside the app now), a strip-photo scanner and a builder analytics dashboard.",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu962a70fef7",
+   "t": "Price checked: <b>sovaldi 400mg tablet</b> (bottle of 28 tablets) - now Rs 15809.26 (NPPA scheduled ceiling (w.e.f. 1 Apr 2026) x pack x 1.05 GST, NPPA 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu05001961a4",
+   "t": "Price checked: <b>temonat 250mg capsule</b> (strip of 5 capsules) - now Rs 23138.59 (NPPA scheduled ceiling (w.e.f. 1 Apr 2026) x pack x 1.05 GST, NPPA 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "puba6d6f7089",
+   "t": "Price checked: <b>imozide 250mg capsule</b> (strip of 5 capsules) - now Rs 23138.59 (NPPA scheduled ceiling (w.e.f. 1 Apr 2026) x pack x 1.05 GST, NPPA 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu65f95e0245",
+   "t": "Price checked: <b>acozolo 250 capsule</b> (bottle of 5 capsules) - now Rs 23138.59 (NPPA scheduled ceiling (w.e.f. 1 Apr 2026) x pack x 1.05 GST, NPPA 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu0db5773c23",
+   "t": "Price checked: <b>montair-lc tablet</b> (strip of 15 tablets) - now Rs 419.79 (two-source snippet agreement (1mg + Amazon), Nov 2026, Nov 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu8a05847cc7",
+   "t": "Price checked: <b>combiflam tablet</b> (strip of 20 tablets) - now Rs 63.19 (two-source snippet agreement (1mg + Amazon), Nov 2026, Nov 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu05c6d6b26b",
+   "t": "Price checked: <b>zerodol-sp tablet</b> (strip of 10 tablets) - now Rs 139.0 (two-source snippet agreement (1mg + Zepto), Nov 2026, Nov 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu40709ef384",
+   "t": "Price checked: <b>allegra 180mg tablet</b> (strip of 10 tablets) - now Rs 312.04 (two-source snippet agreement (1mg + PharmEasy), Nov 2026, Nov 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu6b401e6437",
+   "t": "Price checked: <b>augmentin 625 duo tablet</b> (strip of 10 tablets) - now Rs 196.65 (three-source snippet agreement (1mg + MrMed + Amazon), Nov 2026, Nov 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu774e3a198a",
+   "t": "Price checked: <b>pan-d capsule pr</b> (strip of 15 capsule pr) - now Rs 261.9 (two-source snippet agreement (1mg + PharmEasy), Nov 2026, Nov 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu8a3faaf393",
+   "t": "Price checked: <b>extend forte tablet</b> (strip of 10 tablets) - now Rs 211.0 (verified on public pharmacy pages, Nov 2026, Nov 2026).",
+   "d": "2026-11-19"
+  },
+  {
+   "id": "pu508ae7a473",
+   "t": "Price checked: <b>livogen captab</b> (strip of 10 captabs) - now Rs 104.43 (verified on public pharmacy pages, Nov 2026, Nov 2026).",
+   "d": "2026-11-19"
+  }
+ ],
+ "pages": "https://pranay9977.github.io/ps-medico/"
 }
