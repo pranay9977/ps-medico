@@ -1,73 +1,37 @@
 {
- "build": 36,
- "date": "19 Nov 2026",
+ "build": 40,
+ "date": "20 Nov 2026",
  "file": "PS_Medico.html",
  "news": [
   {
-   "id": "b36",
-   "t": "PS Medico build 36 (19 Nov 2026): the app now talks to your own server. (1) Search anything the offline catalog does not know and the app automatically asks the online verified list of 12,600+ price-checked medicines - a found medicine opens a full page exactly like a catalog one: alternatives, clash checks and its verified price history. (2) A 'Price wrong? Report it' button on every medicine page sends the real shop price straight to the owner's private list. (3) Every medicine page can show its full verified price history (every published check, newest first). (4) Prices refresh themselves through the server whenever any copy is opened with internet - and new verified prices can go live without any upload.",
-   "d": "2026-11-19"
+   "id": "b40",
+   "t": "PS Medico v19.0 (build 40, 20 Nov 2026): <b>the one-app edition</b> - the FULL app (254,251 medicines, every feature) now runs at the PS Medico web address too, always the newest version. While online: prices re-check themselves while you search, and a medicine not in the catalog is found on the internet and added automatically. Maker scores and lab badges are gone (owner's choice) - facts only: prices with dates, warnings, the batch checker. Cleaner look, fewer words.",
+   "d": "2026-11-20"
   },
   {
-   "id": "puc660b97bfb",
-   "t": "Price checked: <b>regestrone cr 10mg tablet</b> (strip of 10 tablet cr) - now Rs 253.75 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
+   "id": "b39",
+   "t": "PS Medico build 39 (20 Nov 2026): <b>the live-price update</b> - the whole community price list re-checked against PharmEasy (12277 medicines now carry 20 Nov 2026 MRPs), thousands of medicines the app never had added with composition + today's MRP, and (after the server update) prices refresh themselves while you search. The keyboard fix from build 37 is included.",
+   "d": "2026-11-20"
   },
   {
-   "id": "pu900b382684",
-   "t": "Price checked: <b>duoluton l tablet</b> (strip of 21 tablets) - now Rs 360.03 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
+   "id": "pud7b91d7799",
+   "t": "Price checked: <b>zithium 500 tablet</b> (strip of 5 tablets) - now Rs 126.68 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
   },
   {
-   "id": "pue410660d98",
-   "t": "Price checked: <b>femilon tablet</b> (strip of 21 tablets) - now Rs 397 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
+   "id": "puf848b98696",
+   "t": "Price checked: <b>zithium 250mg tablet</b> (strip of 6 tablets) - now Rs 75.29 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
   },
   {
-   "id": "pu6640ea3b9c",
-   "t": "Price checked: <b>yamini tablet</b> (strip of 21 tablets) - now Rs 756.75 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
+   "id": "pude53ed78b3",
+   "t": "Price checked: <b>zexime 200mg tablet</b> (strip of 10 tablets) - now Rs 270.0 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
   },
   {
-   "id": "pu7f1a349a52",
-   "t": "Price checked: <b>chericof syrup</b> (bottle of 100 ml Syrup) - now Rs 131.25 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
-  },
-  {
-   "id": "pu38819c0bd5",
-   "t": "Price checked: <b>dexona injection</b> (vial of 2 ml Injection) - now Rs 10.94 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
-  },
-  {
-   "id": "pufac5857482",
-   "t": "Price checked: <b>alex p syrup</b> (bottle of 60 ml Syrup) - now Rs 117.19 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
-  },
-  {
-   "id": "pu7c21d86e2e",
-   "t": "Price checked: <b>azithral eye drop</b> (packet of 3 ml Eye Drop) - now Rs 182.81 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
-  },
-  {
-   "id": "pu8d0a1e2019",
-   "t": "Price checked: <b>montair fx tablet</b> (strip of 15 tablets) - now Rs 416.5 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
-  },
-  {
-   "id": "pu3c06199ead",
-   "t": "Price checked: <b>allegra nasal spray</b> (bottle of 120 MDI Nasal Spray) - now Rs 493 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
-  },
-  {
-   "id": "pu10e154bc18",
-   "t": "Price checked: <b>allegra suspension raspberry & vanilla</b> (bottle of 100 ml Oral Suspension) - now Rs 235.5 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
-  },
-  {
-   "id": "pu93d356e551",
-   "t": "Price checked: <b>allegra 30mg tablet</b> (strip of 10 tablets) - now Rs 52.8 (PharmEasy product page, Nov 2026, Nov 2026).",
-   "d": "2026-11-19"
+   "id": "pu03e2b83723",
+   "t": "Price checked: <b>zoxan 250mg tablet</b> (strip of 10 tablets) - now Rs 23.5 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
   }
- ],
- "pages": "https://pranay9977.github.io/ps-medico/"
+ ]
 }
