@@ -1,72 +1,83 @@
 {
- "build": 47,
- "date": "20 Nov 2026",
+ "build": 65,
+ "date": "24 Nov 2026",
  "file": "PS_Medico.html",
  "news": [
   {
-   "id": "b47",
-   "t": "PS Medico build 47 (%d %b %Y): <b>30 more medicine sources checked, and the alternatives are guaranteed pure</b> - Netforhealth (1,000 small-maker medicines) and the first Dawaadost wave joined the online lists; 9 more big sites (Apollo 24/7, HealthKart, SastaSundar, TrueMeds...) honestly refuse automated access. And per the builder's instruction: alternatives come ONLY from the verified catalog of rated makers - internet-added medicines can never appear as alternatives (printed on every table, enforced by an automated test).",
-   "d": "2026-11-20"
+   "id": "b65",
+   "t": "PS Medico build 65 (24 Nov 2026): <b>honest salt lists and quiet price tags</b> - 600+ salt compositions corrected against official labels (Ascoril LS, Mucaine, Cremaffin Plus, Cheston Cold, the Panderm creams, Polybion and their whole formula families now show ALL their salts - each corrected pack carries the 'salt list verified' mark); and every catalog-based price now shows a small muted 'approx' (Hindi: लगभग) instead of plain bold numbers, so catalog MRPs are never mistaken for live-checked prices. Worker app and search suggestions updated to match.",
+   "d": "2026-11-24"
+  },
+  {
+   "id": "b64",
+   "d": "2026-11-24",
+   "t": "PS Medico build 64 (24 Nov 2026): <b>the weekly auto-update era</b> - a free GitHub Actions pipeline now refreshes prices every Monday (NPPA revised MRPs, Jan Aushadhi kendra prices, live re-checks of the whole channel, CDSCO watch), and the worker can also refresh itself every 6 hours (cron). Jan Aushadhi kendra prices appear on matching salt pages ('Same salt at a Jan Aushadhi Kendra'); every medicine table now badges the ~100 chemist-staple brands (crocin, dolo, augmentin...) that every chemist stocks or can order in 1-2 days; the FAQ gained the substitute-push answer (margins, not availability), the five honest price sources, and the score-perspective note; Sensodyne and Zevit joined the famous-brand data. Worker v15: 'Update Now' genuinely rotates prices and every run leaves a visible marker."
+  },
+  {
+   "id": "b63",
+   "t": "PS Medico build 63 (24 Nov 2026): <b>the independent audit, fully answered</b> - child mode now lists ONLY syrup/drop/suspension forms (with a weight-based dose helper and adult tablets kept collapsed under a clear warning); the banned-combination tag follows every medicine onto the prescription list, the comparison, the symptom cards and the search results; every medicine page gained a Share button; the two icon buttons no longer overlap on phones; syrups, creams and drops got a per-ml price; the 69 core-vs-catalog price mismatches are gone (one identity per name+pack+maker now); the same-name-different-maker packs are never merged again; a mistyped brand finds the real top brand first (stresils - Strepsils); the interaction matrix grew to 1,000+ salt pairs; pregnancy guidance covers 199 salts; NLEM-2022 essential-medicine flags and trust scores for every company-name spelling joined; the Hindi interface is complete; and the admin key is no longer baked into the app file. Server v13 adds offline mode, icons, favicon, sitemap, honest report deletes, rate limits, security headers and 8 MB-saving 304s.",
+   "d": "2026-11-24"
   },
   {
    "id": "pud7b91d7799",
    "t": "Price checked: <b>zithium 500 tablet</b> (strip of 5 tablets) - now Rs 126.68 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "puf848b98696",
    "t": "Price checked: <b>zithium 250mg tablet</b> (strip of 6 tablets) - now Rs 75.29 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pude53ed78b3",
    "t": "Price checked: <b>zexime 200mg tablet</b> (strip of 10 tablets) - now Rs 270.0 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pu03e2b83723",
    "t": "Price checked: <b>zoxan 250mg tablet</b> (strip of 10 tablets) - now Rs 23.5 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pu4ed1decb7a",
    "t": "Price checked: <b>zoryl 4 tablet</b> (strip of 15 tablets) - now Rs 323.3 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pu8299caee22",
    "t": "Price checked: <b>zoryl 3 tablet</b> (strip of 15 tablets) - now Rs 270.4 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pub399fec011",
    "t": "Price checked: <b>zovirax 400 tablet</b> (strip of 10 tablets) - now Rs 146.75 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pu031032308f",
    "t": "Price checked: <b>zovirax 800 tablet</b> (strip of 5 tablets) - now Rs 202.46 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pu5c95f95a9d",
    "t": "Price checked: <b>zovirax 200 tablet</b> (strip of 5 tablets) - now Rs 40.89 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pu85c23de33e",
    "t": "Price checked: <b>zoclar 500mg tablet</b> (strip of 4 tablets) - now Rs 166.88 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pu8adfd5137b",
    "t": "Price checked: <b>zoclar 250 tablet</b> (strip of 4 tablets) - now Rs 101.44 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   },
   {
    "id": "pua41b32a060",
    "t": "Price checked: <b>zyle 100 tablet</b> (strip of 10 tablets) - now Rs 20.0 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
-   "d": "2026-11-20"
+   "d": "2026-11-24"
   }
- ]
+ ],
+ "pages": "https://ps-medico.psc-core.workers.dev/"
 }
