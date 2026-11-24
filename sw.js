@@ -2,7 +2,7 @@
 // offline. The update manifest (manifest.json) is NEVER cached, so the app's
 // own update banner always sees the live build; the app HTML itself is
 // network-first, so a newly deployed build appears on the next open.
-const C = 'psm-v3';
+const C = 'psm-v4';
 const SHELL = ['./', './PS_Medico.html', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(C).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

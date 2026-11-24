@@ -1,16 +1,11 @@
 {
- "build": 40,
+ "build": 47,
  "date": "20 Nov 2026",
  "file": "PS_Medico.html",
  "news": [
   {
-   "id": "b40",
-   "t": "PS Medico v19.0 (build 40, 20 Nov 2026): <b>the one-app edition</b> - the FULL app (254,251 medicines, every feature) now runs at the PS Medico web address too, always the newest version. While online: prices re-check themselves while you search, and a medicine not in the catalog is found on the internet and added automatically. Maker scores and lab badges are gone (owner's choice) - facts only: prices with dates, warnings, the batch checker. Cleaner look, fewer words.",
-   "d": "2026-11-20"
-  },
-  {
-   "id": "b39",
-   "t": "PS Medico build 39 (20 Nov 2026): <b>the live-price update</b> - the whole community price list re-checked against PharmEasy (12277 medicines now carry 20 Nov 2026 MRPs), thousands of medicines the app never had added with composition + today's MRP, and (after the server update) prices refresh themselves while you search. The keyboard fix from build 37 is included.",
+   "id": "b47",
+   "t": "PS Medico build 47 (%d %b %Y): <b>30 more medicine sources checked, and the alternatives are guaranteed pure</b> - Netforhealth (1,000 small-maker medicines) and the first Dawaadost wave joined the online lists; 9 more big sites (Apollo 24/7, HealthKart, SastaSundar, TrueMeds...) honestly refuse automated access. And per the builder's instruction: alternatives come ONLY from the verified catalog of rated makers - internet-added medicines can never appear as alternatives (printed on every table, enforced by an automated test).",
    "d": "2026-11-20"
   },
   {
@@ -31,6 +26,46 @@
   {
    "id": "pu03e2b83723",
    "t": "Price checked: <b>zoxan 250mg tablet</b> (strip of 10 tablets) - now Rs 23.5 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
+  },
+  {
+   "id": "pu4ed1decb7a",
+   "t": "Price checked: <b>zoryl 4 tablet</b> (strip of 15 tablets) - now Rs 323.3 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
+  },
+  {
+   "id": "pu8299caee22",
+   "t": "Price checked: <b>zoryl 3 tablet</b> (strip of 15 tablets) - now Rs 270.4 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
+  },
+  {
+   "id": "pub399fec011",
+   "t": "Price checked: <b>zovirax 400 tablet</b> (strip of 10 tablets) - now Rs 146.75 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
+  },
+  {
+   "id": "pu031032308f",
+   "t": "Price checked: <b>zovirax 800 tablet</b> (strip of 5 tablets) - now Rs 202.46 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
+  },
+  {
+   "id": "pu5c95f95a9d",
+   "t": "Price checked: <b>zovirax 200 tablet</b> (strip of 5 tablets) - now Rs 40.89 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
+  },
+  {
+   "id": "pu85c23de33e",
+   "t": "Price checked: <b>zoclar 500mg tablet</b> (strip of 4 tablets) - now Rs 166.88 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
+  },
+  {
+   "id": "pu8adfd5137b",
+   "t": "Price checked: <b>zoclar 250 tablet</b> (strip of 4 tablets) - now Rs 101.44 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
+   "d": "2026-11-20"
+  },
+  {
+   "id": "pua41b32a060",
+   "t": "Price checked: <b>zyle 100 tablet</b> (strip of 10 tablets) - now Rs 20.0 (PharmEasy printed MRP, live check 20 Nov 2026, PharmEasy 20 Nov 2026).",
    "d": "2026-11-20"
   }
  ]
