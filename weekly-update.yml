@@ -1,0 +1,55 @@
+name: PS Medico weekly update
+
+on:
+  schedule:
+    # Mondays 06:30 IST = 01:00 UTC (the spec's weekly slot)
+    - cron: "30 1 * * 1"
+  # also runnable any time from the Actions tab (Run workflow button)
+  workflow_dispatch: {}
+
+permissions:
+  # only what the failure-issue step needs
+  issues: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: install the PDF parser
+        run: pip install pdfplumber
+
+      - name: run the weekly update
+        run: python weekly_update.py
+        env:
+          PSM_ADMIN_KEY: ${{ secrets.PSM_ADMIN_KEY }}
+          PSM_BASE: ${{ vars.PSM_BASE || 'https://ps-medico.psc-core.workers.dev' }}
+
+      - name: add the run report to the job summary
+        if: always()
+        run: |
+          if [ -f run_report.md ]; then
+            cat run_report.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: open a failure issue (loud failure, silent success)
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let report = '';
+            try { report = fs.readFileSync('run_report.md', 'utf8'); } catch (e) {}
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Weekly update FAILED - ${new Date().toISOString().slice(0, 10)}`,
+              body: `The weekly PS Medico update failed (nothing was published). The app keeps working with its last published data - nothing user-facing breaks.\n\nRun: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}\n\n${report}`,
+              labels: ['update-failed']
+            });

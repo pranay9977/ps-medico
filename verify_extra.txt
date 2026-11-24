@@ -1,0 +1,169 @@
+amaryl
+asthalin
+augmentin
+azithral
+brufen
+calpol
+cetcip
+ciplox
+combiflam
+cozaar
+crestor
+crocin
+daonil
+daxid
+deplatt
+domstal
+ecosprin
+eltroxin
+emset
+flagyl
+folvite
+foracort
+forcan
+forxiga
+galvus
+galvusmet
+glycomet
+janumet
+januvia
+jardiance
+levoflox
+lipitor
+losar
+micardis
+montair
+mox
+nexito
+norvasc
+omez
+ondem
+pantocid
+rablet
+rivotril
+rozavel
+stamlo
+storvas
+taxim-o
+telma
+thyronorm
+uprise
+viagra
+voveran
+zental
+zithromax
+zoloft
+glimepiride (2mg) + metformin (500mg)
+amoxycillin  (500mg) + clavulanic acid (125mg)
+azithromycin (500mg)
+cefixime (200mg)
+cefpodoxime proxetil (100mg)
+aceclofenac (100mg) + paracetamol (325mg)
+amoxycillin (250mg)
+paracetamol (500mg)
+atorvastatin (10mg)
+rosuvastatin (10mg)
+ofloxacin (200mg)
+diclofenac (50mg)
+progesterone (natural micronized) (200mg)
+cefuroxime (500mg)
+levofloxacin (500mg)
+ciprofloxacin (500mg)
+itraconazole (100mg)
+ofloxacin (200mg) + ornidazole (500mg)
+pantoprazole (40mg)
+telmisartan (40mg)
+ondansetron (4mg)
+levocetirizine (5mg) + montelukast (10mg)
+rabeprazole (20mg)
+ceftriaxone (1000mg)
+glimepiride (1mg)
+metformin (500mg)
+telmisartan (40mg) + amlodipine (5mg)
+luliconazole (1% w/w)
+metoprolol succinate (47.5mg)
+nimesulide (100mg)
+cefpodoxime proxetil (200mg) + clavulanic acid (125mg)
+cefalexin (250mg)
+domperidone (30mg) + rabeprazole (20mg)
+amlodipine (5mg)
+diclofenac (50mg) + paracetamol (325mg)
+levocetirizine (5mg)
+levetiracetam (500mg)
+meropenem (1000mg)
+amikacin (500mg)
+fluconazole (150mg)
+methylcobalamin (750mcg) + pregabalin (75mg)
+nimesulide (100mg) + paracetamol (500mg)
+domperidone (30mg) + pantoprazole (40mg)
+olanzapine (10mg)
+cefadroxil (125mg)
+deflazacort (6mg)
+cefoperazone (1000mg) + sulbactam (500mg)
+sildenafil (100mg)
+ceftriaxone (1000mg) + sulbactam (500mg)
+omeprazole (20mg)
+thyroxine (25mcg)
+etoricoxib (90mg)
+cetirizine (10mg)
+voglibose (0.2mg)
+ramipril (5mg)
+metformin  (500mg) + vildagliptin (50mg)
+methylprednisolone (4mg)
+piperacillin (4000mg) + tazobactum (500mg)
+povidone iodine (5% w/w)
+cefixime (200mg) + ofloxacin (200mg)
+sensodyne
+zevit
+disprin
+iodex
+benadryl
+allegra
+betnovate
+neosporin
+mucaine
+inderal
+vertin
+xarelto
+dolo
+zerodol
+pan
+pan-d
+montek lc
+amoxyclav
+cefixime
+oflox
+digene
+gelusil
+eno
+electral
+ors
+meftal spas
+dolo 650
+saridon
+volini
+moov
+iodex balm
+vicks
+halls
+strepsils
+b complex
+shelcal
+neurobion
+becosules
+zincovit
+limcee
+levocetirizine
+cetirizine
+montelukast
+metformin
+glimepiride
+telmisartan
+amlodipine
+atorvastatin
+rosuvastatin
+clopidogrel
+acitrom
+thyroxine
+dutasteride
+tamsulosin
